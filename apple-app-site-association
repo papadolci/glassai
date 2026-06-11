@@ -1,0 +1,11 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "8GM469MLU2.com.kentaro.GlassAI",
+        "paths": ["/glassai/*", "/glassai"]
+      }
+    ]
+  }
+}
